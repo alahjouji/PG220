@@ -1,0 +1,11 @@
+<commandes>
+    <commande id="1" largeur="4" longueur="14" quantite="2"/>
+    <commande id="2" largeur="7" longueur="14" quantite="3"/>
+    <commande id="3" largeur="2" longueur="8" quantite="6"/>
+    <commande id="4" largeur="10" longueur="16" quantite="1"/>
+    <commande id="5" largeur="4" longueur="26" quantite="1"/>
+    <commande id="6" largeur="6" longueur="10" quantite="2"/>
+    <commande id="7" largeur="5" longueur="26" quantite="1"/>
+    <commande id="8" largeur="5" longueur="10" quantite="2"/>
+</commandes>
+
